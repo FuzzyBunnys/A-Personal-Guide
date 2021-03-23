@@ -6,7 +6,7 @@ Hello! This is my website where I put up some of the things I'm working on. By w
 ### Fusor
 In my spare time I've been slowly putting together a [fusor](https://fusor.net/), which is a device that lets you fuse atoms in the comfort of your own home. The original inventor of the device, [Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) also invented television! In any case it's a big long project made up of a lot of little projects. Here you can find a listing of all the things I'm working on related to it and the slow progress I'm making. I've been posting updates at [fusor.net](https://fusor.net/board/) for awhile, but this is a centralized source of everything I've done. 
 * [Thermocouple Vacuum Gauge](https://fuzzybunnys.github.io/Thermocouple-Gauge-Sensor/) - In progress
-* Vacuum Chamber - Complete
+* [Vacuum Chamber](https://fuzzybunnys.github.io/Vacuum-Chamber/) - Complete
 * High Voltage Probe - In Progress
 * Turbopump Controller - In Progress
 * Simulation - In Progress
