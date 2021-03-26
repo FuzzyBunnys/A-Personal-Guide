@@ -14,6 +14,7 @@ In my spare time I've been slowly putting together a [fusor](https://fusor.net/)
 ### Collatz
 To really cement my status as an internet weirdo, in between working on my homebuilt fusor I've also been plugging away at the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). I obviously don't have a proof of it (yet...), but I've discovered some neat things (all likely unoriginal) and written a couple of programs to test some ideas I've had.
 * [An Orbit Counting Program in C](https://fuzzybunnys.github.io/Collatz-Programs/) - Complete
+* [A Collatz Program in Python]() - Complete
 
 You can use the [editor on GitHub](https://github.com/FuzzyBunnys/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
