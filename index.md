@@ -12,7 +12,7 @@ In my spare time I've been slowly putting together a [fusor](https://fusor.net/)
 * Simulation - In Progress
 * High Voltage Supply - In Progress
 * High Voltage Feedthrough - In Progress
-* [Research and Reading](https://fuzzybunnys.github.io/FusorResearchReading) - In Progress
+* [Research and Reading](https://fuzzybunnys.github.io/FusorResearchReading) - Forever In Progress
 
 ### Collatz
 To really cement my status as an internet weirdo, in between working on my homebuilt fusor I've also been plugging away at the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). I obviously don't have a proof of it (yet...), but I've discovered some neat things (all likely unoriginal) and written a couple of programs to test some ideas I've had.
