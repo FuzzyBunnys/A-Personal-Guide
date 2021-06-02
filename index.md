@@ -9,7 +9,7 @@ In my spare time I've been slowly putting together a [fusor](https://fusor.net/)
 * [Vacuum Chamber](https://fuzzybunnys.github.io/Vacuum-Chamber/) - Complete
 * [High Voltage Probe](https://fuzzybunnys.github.io/HighVoltageProbe) - Complete
 * Turbopump Controller - In Progress
-* Simulation - In Progress
+* [Simulation](https://fuzzybunnys.github.io/Fusor-Simulation/) - In Progress
 * High Voltage Supply - In Progress
 * High Voltage Feedthrough - In Progress
 * [Research and Reading](https://fuzzybunnys.github.io/FusorResearchReading) - Forever In Progress
