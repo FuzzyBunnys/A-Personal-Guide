@@ -12,7 +12,7 @@ In my spare time I've been slowly putting together a [fusor](https://fusor.net/)
 * [High Voltage Probe](https://fuzzybunnys.github.io/HighVoltageProbe) - Complete
 * [Turbopump Controller](https://fuzzybunnys.github.io/TurbopumpController) - In Progress
 * [Simulation](https://fuzzybunnys.github.io/Fusor-Simulation/) - In Progress
-* High Voltage Supply - In Progress
+* [High Voltage Supply]() - In Progress
 * [High Voltage Feedthrough]() - In Progress
 * [Research and Reading](https://fuzzybunnys.github.io/FusorResearchReading) - Forever In Progress
 
@@ -24,3 +24,6 @@ To really cement my status as an internet weirdo, in between working on my homeb
 
 You can use the [editor on GitHub](https://github.com/FuzzyBunnys/Website/edit/gh-pages/index.md) 
 
+### Electronics Projects
+Sometimes I try and wire chips to resistors and capacitors and sometimes they work in they way I intended and sometimes they don't!
+* [An LED Backlight Platform]() - Complete 
