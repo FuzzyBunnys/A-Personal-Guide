@@ -26,4 +26,4 @@ You can use the [editor on GitHub](https://github.com/FuzzyBunnys/Website/edit/g
 
 ### Electronics Projects
 Sometimes I try and wire chips to resistors and capacitors and sometimes they work in they way I intended and sometimes they don't!
-* [An LED Backlight Platform]() - Complete 
+* [An LED Backlight Platform](https://fuzzybunnys.github.io/LED-Backlight/) - Complete 
