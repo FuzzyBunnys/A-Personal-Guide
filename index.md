@@ -21,9 +21,6 @@ To really cement my status as an internet weirdo, in between working on my homeb
 * [An Orbit Counting Program in C](https://fuzzybunnys.github.io/Collatz-Programs/) - Complete
 * [A Different Orbit Counting Program in Python](https://fuzzybunnys.github.io/A-Different-Orbit-Counting-Program/)- Complete
 
-
-You can use the [editor on GitHub](https://github.com/FuzzyBunnys/Website/edit/gh-pages/index.md) 
-
 ### Electronics Projects
 Sometimes I try and wire chips to resistors and capacitors and sometimes they work in they way I intended and sometimes they don't!
 * [An LED Backlight Platform](https://fuzzybunnys.github.io/LED-Backlight/) - Complete 
