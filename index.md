@@ -23,4 +23,7 @@ To really cement my status as an internet weirdo, in between working on my homeb
 
 ### Electronics Projects
 Sometimes I try and wire chips to resistors and capacitors and sometimes they work in they way I intended and sometimes they don't!
-* [An LED Backlight Platform](https://fuzzybunnys.github.io/LED-Backlight/) - Complete 
+* [An LED Backlight Platform](https://fuzzybunnys.github.io/LED-Backlight/) - Complete
+
+### Writing
+I've written a number of pieces for Build Canada's Great Canadian Builders series. They're generally short essays that introduce 
