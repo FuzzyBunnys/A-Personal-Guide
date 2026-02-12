@@ -26,4 +26,8 @@ Sometimes I try and wire chips to resistors and capacitors and sometimes they wo
 * [An LED Backlight Platform](https://fuzzybunnys.github.io/LED-Backlight/) - Complete
 
 ### Writing
-I've written a number of pieces for Build Canada's Great Canadian Builders series. They're generally short essays that introduce 
+I've written a number of pieces for Build Canada's Great Canadian Builders series. They're short essays that introduce a Canadian who contributed significantly to the country. 
+* [Oliver Bowen](https://www.buildcanada.com/great-canadian-builders/oliver-bowen)
+* [Karl Clark](https://www.buildcanada.com/great-canadian-builders/karl-clark)
+* [Donna Strickland](https://www.buildcanada.com/great-canadian-builders/donna-strickland)
+* [Willard Boyle](https://www.buildcanada.com/great-canadian-builders/willard-boyle)
